@@ -4,6 +4,9 @@
 <h2>Introduction</h2>
 Azure Crest Hotel, a 3-star establishment, currently operates with a manual room reservation process where customers either visit or call the hotel manager. This method is time-consuming, insecure, prone to errors, and negatively impacts the business. The project aims to modernize this process by implementing an automated online system for reservations, availability checks, confirmations, and payments. This upgrade will enhance efficiency, reduce booking times, and eliminate paper usage.
 <br />
+<h2>Project Management Approach</h2>
+The project Management approach employed was a hybrid model that combined Waterfall and Agile Methodologies. The solution was tailored to meet the business requirements of of the Hotel.
+
 
 
 <h2>Languages and Utilities Used</h2>
