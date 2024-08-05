@@ -8,6 +8,7 @@ Azure Crest Hotel, a 3-star establishment, currently operates with a manual room
 The project Management approach employed was a hybrid model that combined Waterfall and Agile Methodologies. The solution was tailored to meet the business requirements of of the Hotel.
 
 <h2>Deliverables & Artifacts Created during this project</h2>
+
 - <b>Functional Requirement Document<b>
 - <b>Non Functional Requirement Document<b>
 - Use Case Diagram & Documentation
