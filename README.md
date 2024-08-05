@@ -16,8 +16,10 @@ The project was broken down into the following 6 task.
 - Deployment
   
 
-<h2>Deliverables & Artifacts Created during this project</h2>
+<h2>Deliverables & Artifacts </h2>
 
+The Business requirements were translated into the following artifacts/deliverables to enhance communicattion among stakeholders and perfectly allign buiness objective.
+Please refer to attached files for detailed explanation of these deliverables.
 - Business Requirement Document
 - Project Plan
 - Functional Requirement Document
@@ -30,7 +32,6 @@ The project was broken down into the following 6 task.
 - Requirement Traceability Matrix
   
 
-  Please refer to attached files for detailed view of these deliverables
 
 
 <h2>Task 1: Requirement Gathering </h2>
