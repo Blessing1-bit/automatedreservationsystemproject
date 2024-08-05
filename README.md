@@ -20,7 +20,7 @@ The project Management approach employed was a hybrid model that combined Waterf
 - Business Requirement Document
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Project Plan </h2>
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
