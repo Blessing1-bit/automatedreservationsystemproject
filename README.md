@@ -21,10 +21,15 @@ The project Management approach employed was a hybrid model that combined Waterf
 - Business Requirement Document
 
 
-<h2>Project Plan </h2>
+<h2>Method employed to execute project </h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- Requirement Gathering 
+- Gap Analysis  to determine the current and future state of the Business.
+- Project Planning
+- Prototype Designs and Website Development 
+- User Acceptance Testing 
+- Deployment
+- Continuous Training and Support 
 
 <h2>Environments Used </h2>
 
