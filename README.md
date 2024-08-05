@@ -1,4 +1,4 @@
-<h1>Poject: To Automate Azure Crest Hotel Manual Reservation Process</h1>
+<h1>Poject: To Automate Manual Reservation Process of Azure Crest Hotel</h1>
 
 
 <h2>Introduction</h2>
