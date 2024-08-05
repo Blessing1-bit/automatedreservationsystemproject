@@ -9,8 +9,8 @@ The project Management approach employed was a hybrid model that combined Waterf
 
 <h2>Deliverables & Artifacts Created during this project</h2>
 
-- <b>Functional Requirement Document<b>
-- <b>Non Functional Requirement Document<b>
+- Functional Requirement Document
+- Non Functional Requirement Document
 - Use Case Diagram & Documentation
 - Process Flow Diagram 
 - Agile user stories and acceptance criteria
