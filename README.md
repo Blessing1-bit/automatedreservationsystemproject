@@ -6,18 +6,19 @@ Azure Crest Hotel, a 3-star establishment, currently operates with a manual room
 <br />
 <h2>Project Management Approach</h2>
 The project Management approach employed was a hybrid model that combined Waterfall and Agile Methodologies. 
-The following methods was taken to execute this project 
+The project was broken down into the following 6 task.
 
 - Requirement Gathering 
-- Gap Analysis.
 - Project Planning
+- Requirement Analysis
 - Prototype Designs and Website Development 
 - User Acceptance Testing 
 - Deployment
-- Continuous Training and Support 
+  
 
 <h2>Deliverables & Artifacts Created during this project</h2>
 
+- Business Requirement Document
 - Project Plan
 - Functional Requirement Document
 - Non Functional Requirement Document
@@ -27,12 +28,12 @@ The following methods was taken to execute this project
 - Mockups and Prototype
 - Test Plan
 - Requirement Traceability Matrix
-- Business Requirement Document
+  
 
-  Please refer to attached files for detailed view of the deliverables
+  Please refer to attached files for detailed view of these deliverables
 
 
-<h2>Environments Used </h2>
+<h2>Task 1: Requirement Gathering </h2>
 
 - <b>Windows 10</b> (21H2)
 
