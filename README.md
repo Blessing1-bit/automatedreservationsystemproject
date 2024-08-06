@@ -18,8 +18,8 @@ As a Business Analyst, your role is pivotal in the implementation of an online r
 - Significantly reduce the time required for making reservations.
 <br />
 
-<h2>Project Tas</h2>
-The following were conducted tasks to be to execute this project:
+<h2>Project Task</h2>
+I carried out the following tasks to be to execute this project successfully:
 
 - I prepared a High-level project plan and approach to guide project management activities.
 - RACI matrix to define stakeholders roles and responsibilities.
