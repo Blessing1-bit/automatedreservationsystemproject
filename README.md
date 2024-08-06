@@ -58,7 +58,8 @@ Created a Use Case Diagram illustrating system interactions and detailed documen
 
 Customer (searching, booking, canceling, etc.) and
 Staff (check-ins, check-outs, discount approvals) interactions with the solution.
-![image](https://github.com/user-attachments/assets/34ffb202-ae39-4fce-a3d1-ea4d31c6298e)
+![image](https://github.com/user-attachments/assets/26fbdc01-3042-425b-ad24-74cf81e6f40d)
+
 
 <h2>2.6 Functional and Non-Functional Requirement Documents</h2>
 
