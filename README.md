@@ -13,6 +13,12 @@ As a Business Analyst, your role is pivotal in the implementation of an online r
 - Reduce reservation time.
 <br />
 
+
+<h2>Stakeholder Insight</h2> 
+
+- Managing Director: Committed to delivering the automated system within 8 months. Supports the project and has appointed the Hotel Manager as the project sponsor.
+- Hotel Manager: Requires a system for customers to search rooms, check prices, make and manage reservations, receive confirmations, and handle payments. Must also empower front office staff for check-ins and check-outs. Room reservations are valid for 1 hour, with free cancellation up to 48 hours before check-in, otherwise, a penalty charge applies.
+
 <h2>Project Task</h2>
 I carried out the following 12 tasks to ensure seamless project execution:
 
