@@ -108,7 +108,7 @@ Developed a Test Plan detailing testing strategies, test cases, conditions that 
 <h2>2.10 Requirement Traceability Matrix (RTM)</h2>
 
 <h2>3.0 Conclusion</h2>
-The Automated Hotel Reservation System project aims to enhance operational efficiency and customer experience through automation. By addressing current challenges, the project will streamline hotel management processes, improve accuracy and security, and provide a superior customer interaction experience. The Business Analyst's role is crucial in guiding the project to successful completion, ensuring that the system meets all requirements and delivers value to the hotel.
+The Automated Hotel Reservation System project aimed to enhance operational efficiency and customer experience through automation. By addressing current challenges, the project streamlined hotel management processes, improved accuracy and security, and provided a superior customer interaction experience. The Business Analyst's role was crucial in guiding the project to successful completion, ensuring that the system meets all requirements and delivered value to the hotel.
   
 
 
