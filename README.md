@@ -19,7 +19,7 @@ As a Business Analyst, your role is pivotal in the implementation of an online r
 <br />
 
 <h2>Project Task</h2>
-I carried out the following tasks to be to execute this project successfully:
+I carried out the following 12 tasks to ensure seamless project execution:
 
 - I prepared a High-level project plan to guide project management activities.
 - RACI matrix to define stakeholders roles and responsibilities.
