@@ -27,27 +27,17 @@ I carried out the following tasks to be to execute this project successfully:
 - Utilized BPMN Tools like MS Vision to map Business Process that clearly defined current and future states of the business.
 - Use Case Diagram and accompanying documentation to show the end-users interactions with the system.
 - Functional and Non-Functional Requirement Documents to communicate the system specifications to the developers.
+- Created a Prototypes of the online system to simulate UI interactions and functionalities 
 - User Stories and defined Acceptance Criteria to describe the end-users requirements to the developers.
 - Business Requirement Document to communicate the project objectives to the stakeholders 
 - A comprehensive Test Plan for User Acceptance Testing (UAT) and ensure that the solution meets the business requirements.
 - Requirement Traceability Matrix (RTM) to track defects that was identified after testing.
 - Designed an effective Defect Management Document to track and address issues before deployment.
-
-<h2>Project Management Approach</h2>
-The project Management approach employed was a hybrid model that combined Waterfall and Agile Methodologies. 
-The project was broken down into the following 6 task.
-
-- Requirement Gathering 
-- Project Planning
-- Requirement Analysis
-- Prototype Designs and Website Development 
-- User Acceptance Testing 
-- Deployment
   
 
 <h2>Deliverables & Artifacts </h2>
 
-The Business requirements were translated into the following artifacts/deliverables to enhance communicattion among stakeholders and perfectly allign buiness objective.
+The Following deliverables and Arifacts were developed during the course of this project.
 Please refer to attached files for detailed explanation of these deliverables.
 - Business Requirement Document
 - Project Plan
