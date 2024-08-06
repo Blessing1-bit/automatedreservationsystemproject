@@ -17,6 +17,22 @@ As a Business Analyst, your role is pivotal in the implementation of an online r
 - Remove the duplication of customer information in the booking process.
 - Significantly reduce the time required for making reservations.
 <br />
+
+<h2>Project Tas</h2>
+The following were conducted tasks to be to execute this project:
+
+- I prepared a High-level project plan and approach to guide project management activities.
+- RACI matrix to define stakeholders roles and responsibilities.
+- Gap Analysis to understand current state develop strategies for improvement.
+- Business Process Map to illustrates current and future states of the business.
+- Use Case Diagram and accompanying documentation to show the end-users interactions with the system.
+- Functional and Non-Functional Requirement Documents to communicate the system specifications to the developers.
+- User Stories and define Acceptance Criteria to describe the end-users requirements to the developers.
+- Business Requirement Document to communicate the project objective 
+- A comprehensive Test Plan for User Acceptance Testing (UAT) to ensure that the solution meets the business requirement.
+- Requirement Traceability Matrix (RTM) to track defects that was identified after testing.
+- Designed an effective Defect Management Document to track and address issues before deployment.
+
 <h2>Project Management Approach</h2>
 The project Management approach employed was a hybrid model that combined Waterfall and Agile Methodologies. 
 The project was broken down into the following 6 task.
