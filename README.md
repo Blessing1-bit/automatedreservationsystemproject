@@ -1,7 +1,7 @@
 <h1>Poject: To Automate Manual Reservation Process of Azure Crest Hotel</h1>
 
 
-<h2>Introduction</h2>
+<h2>1.Introduction</h2>
 Azure Crest Hotel, a 3-star establishment, has relied on a manual process for room reservations involving physical visits or phone calls. This approach is time-consuming, unsecured, prone to errors, contributes to excessive paper usage, and complicates management. The business faces challenges in efficiently handling a high volume of reservations.
 
 <h2>Objectives</h2> 
