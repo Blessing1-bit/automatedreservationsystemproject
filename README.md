@@ -27,7 +27,8 @@ Please find attached files for detailed descriptions of the artifacts developed 
 
 I developed a high level project management plan to define the business objectives/Scope,  timelines, and deliverables after elicitation of business requirement.
 
-![image](https://github.com/user-attachments/assets/46e7c25b-9c02-4135-b597-0150d4def20c)
+![image](https://github.com/user-attachments/assets/982aabad-ca7a-4763-aeaf-02eedd58d162)
+
 
 <h2>2.2 RACI MATRIX</h2>
 
