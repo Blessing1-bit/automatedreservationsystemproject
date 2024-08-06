@@ -12,10 +12,10 @@ Azure Crest Hotel, a 3-star establishment operates on manual process for room re
 <h2>Objectives</h2> 
 As a Business Analyst, your role is pivotal in the implementation of an online reservation system designed to achieve the following objectives:
 
-- Develop an efficient online hotel reservation system to enhance hospitality management.
-- Eliminate the reliance on paper-based reservation processes.
-- Remove the duplication of customer information in the booking process.
-- Significantly reduce the time required for making reservations.
+- Develop an efficient online reservation system.
+- Eliminate paper-based reservation processes.
+- Prevent duplication of customer information.
+- Reduce reservation time.
 <br />
 
 <h2>Project Task</h2>
