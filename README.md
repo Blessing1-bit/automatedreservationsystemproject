@@ -69,6 +69,7 @@ Functional Requirements: System capabilities (search, book, cancel, etc.)
 Non-Functional Requirements: Performance, security, usability, and scalability standards.
 
 ![image](https://github.com/user-attachments/assets/e06b8f8a-ebd5-441c-b8a2-e7531e9deca2)
+![image](https://github.com/user-attachments/assets/9e434041-5e39-4655-b40c-43fecdd9cd1f)
 
 <h2>2.7 User Stories and Acceptance Criteria</h2>
 
