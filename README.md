@@ -2,12 +2,7 @@
 
 
 <h2>Introduction</h2>
-Azure Crest Hotel, a 3-star establishment operates on manual process for room reservations. Customers either physically visit or call the hotel to secure room reservations. This manual approach is fraught with several challenges:
-
-- Time-Consuming:The manual process is notably time-intensive, causing delays and inconvenience for both customers and staff
-- Unsecured and Unreliable: Manual reservations lack the security and reliability that modern technology can provide, making them prone to errors.
-- Excessive Paper Usage: The current method contributes to excessive paper consumption for reservation records.
-- Complex Management: The management faces difficulties in efficiently managing a high volume of room reservation requests, making tracking customer bookings cumbersome.
+Azure Crest Hotel, a 3-star establishment, has relied on a manual process for room reservations involving physical visits or phone calls. This approach is time-consuming, unsecured, prone to errors, contributes to excessive paper usage, and complicates management. The hotel manager faces challenges in efficiently handling a high volume of reservations.
 
 <h2>Objectives</h2> 
 As a Business Analyst, your role is pivotal in the implementation of an online reservation system designed to achieve the following objectives:
