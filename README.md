@@ -71,23 +71,19 @@ Non-Functional Requirements: Performance, security, usability, and scalability s
 ![image](https://github.com/user-attachments/assets/e06b8f8a-ebd5-441c-b8a2-e7531e9deca2)
 ![image](https://github.com/user-attachments/assets/9e434041-5e39-4655-b40c-43fecdd9cd1f)
 
-<h2>2.7 User Stories and Acceptance Criteria</h2>
+<h2>2.6 User Stories and Acceptance Criteria</h2>
 
 Created compelling User Stories reflecting customer and staff needs, with clear Acceptance Criteria for functionality validation.
 
 ![image](https://github.com/user-attachments/assets/b2aa7428-b4ba-42ee-8c92-2dca3cc3f84e)
 
-<h2>2.8 Business Requirement Document (BRD)</h2>
+<h2>2.7 Business Requirement Document (BRD)</h2>
 
-Construct a comprehensive BRD including:
-
-Swimlane and flowchart representations
-Functional and Non-Functional Requirements
 
 <h2>2.9 Test Plan</h2>
 
 
-Formulate a Test Plan detailing testing strategies, scope, resources, and schedules.
+Developed a Test Plan detailing testing strategies, test cases, conditions that must be fufilled for the solution to be complete.
 
 <h2>2.10 Requirement Traceability Matrix (RTM)</h2>
 
