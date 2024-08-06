@@ -20,13 +20,10 @@ The development of the Automated Reservation System will perform a range of acti
 - Customers will receive confirmation of their reservations via email.
 - Customers have the option to cancel their reservations.
 - Customers can book rooms by making payments through the app.
-- The system allows free cancellations up to 48 hours before check-in.
-- Customers can review their reservations and cancellations..
+- The system allows free cancellations up to 48 hours before check-in otherwise penalty charge.
+- Customers can review their reservations and cancellations.
+-  Front Staff should be able to handle check-ins and Check-out.
 
-<h2>Stakeholder Insight</h2> 
-
-- Managing Director: Committed to delivering the automated system within 8 months. Supports the project and has appointed the Hotel Manager as the project sponsor.
-- Hotel Manager: Requires a system for customers to search rooms, check prices, make and manage reservations, receive confirmations, and handle payments. Must also empower front office staff for check-ins and check-outs. Room reservations are valid for 1 hour, with free cancellation up to 48 hours before check-in, otherwise, a penalty charge applies.
 
 <h2>2. Project Tasks and Deliverables</h2>
 I performed the following tasks to ensure seamless project execution:
