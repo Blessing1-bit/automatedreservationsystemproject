@@ -24,6 +24,15 @@ The development of the Automated Reservation System will perform a range of acti
 - Customers can review their reservations and cancellations.
 -  Front Staff should be able to handle check-ins and Check-out.
 
+<h2>Stakeholer Description</h2> 
+
+- Registered Customer:	Customer who already has an existing account/Profile
+- New Customer: 	This is a customer who does not have an account on the website
+- Front Desk:	This is a front-line staff of Azure Crest Hotel that attends to customers' enquires on the website.
+- Hotel Manager: 	Responsible for overseeing the daily operations of the hotel activities on the system
+- Tech Professionals: 	Web Developers, Business Analyst
+- Government Regulators:	Stakeholders responsible for compliance with set laws and regulations
+
 
 <h2>2. Project Tasks and Deliverables</h2>
 I performed the following tasks to ensure seamless project execution:
