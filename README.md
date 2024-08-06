@@ -25,7 +25,7 @@ Please find attached files for detailed descriptions of the artifacts developed 
 
 <h2>2.1 High Level Plan and Approach</h2>
 
-I develop a high level project management plan to define the objectives, timelines, resources, and milestones.
+I developed a high level project management plan to define the business objectives/Scope,  timelines, and deliverables after elicitation of business requirement.
 
 <h2>2.2 RACI MATRIX</h2>
 
