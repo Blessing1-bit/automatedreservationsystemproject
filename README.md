@@ -45,6 +45,7 @@ then utilized BPMN Tools such as MS Visio to create Process Maps
 to illustrate the current (AS-IS) and future (TO-BE) business processes.
 
 ![image](https://github.com/user-attachments/assets/cc3ed818-7c73-4e0b-9bdc-0315b0708242) 
+![image](https://github.com/user-attachments/assets/cbfb0f2f-59c4-47d0-91b4-0805dff1f5b0)
 
 
 - Current State: Process Flow Diagrams and Swim Lane Diagrams of the Manual reservation process.
