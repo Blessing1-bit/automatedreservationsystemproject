@@ -32,12 +32,11 @@ I developed a high level project management plan to define the business objectiv
 
 <h2>2.2 RACI MATRIX</h2>
 
-Define roles and responsibilities:
+I prepared a RACI Matrix to help define roles and responsibilities for the project base on each deliverable:
+RACI Stands for: Responsible, Accountable, Consulted, and Informed
 
-Responsible: Business Analyst, Project Team
-Accountable: Hotel Manager, Managing Director
-Consulted: IT Team, Front Office Staff
-Informed: Hotel Guests, Board Members
+![image](https://github.com/user-attachments/assets/2db1fb84-7e22-4a92-802b-717c9c087049)
+
 
 <h2>2.3 Current State Analysis</h2>
 
