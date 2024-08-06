@@ -68,6 +68,8 @@ Developed the FRD/NFRD documents outlining:
 Functional Requirements: System capabilities (search, book, cancel, etc.)
 Non-Functional Requirements: Performance, security, usability, and scalability standards.
 
+![image](https://github.com/user-attachments/assets/e06b8f8a-ebd5-441c-b8a2-e7531e9deca2)
+
 <h2>2.7 User Stories and Acceptance Criteria</h2>
 
 Write User Stories reflecting customer and staff needs, with clear Acceptance Criteria for functionality validation.
