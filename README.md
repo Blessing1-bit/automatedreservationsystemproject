@@ -23,11 +23,11 @@ As a Business Analyst, your role is pivotal in the implementation of an online r
 I performed the following tasks to ensure seamless project execution:
 Please find attached files for detailed descriptions of the artifacts developed in this project
 
-<h2>2. High Level Plan and Approach</h2>
+<h2>2.1 High Level Plan and Approach</h2>
 
 Develop a project management plan outlining objectives, timelines, resources, and milestones.
 
-2.2 RACI Matrix
+<h2>2.2 RACI MATRIX</h2>
 
 Define roles and responsibilities:
 
@@ -35,59 +35,54 @@ Responsible: Business Analyst, Project Team
 Accountable: Hotel Manager, Managing Director
 Consulted: IT Team, Front Office Staff
 Informed: Hotel Guests, Board Members
-2.3 Current State Analysis
+
+<h2>2.3 Current State Analysis</h2>
 
 Perform an analysis of the existing manual reservation process, identifying pain points and areas for improvement.
 
-2.4 Process Flow Diagrams and Swim Lane Diagrams
+<h2>2.4 Process Flow Diagrams and Swim Lanes</h2>
 
 Current State: Document the manual reservation process using Process Flow Diagrams and Swim Lane Diagrams.
 Future State: Design the automated reservation system’s process flows and interactions.
-2.5 Use Case Diagram and Documentation
+
+<h2>2.5 Use Case Documentation</h2>
 
 Create a Use Case Diagram illustrating system interactions and detailed documentation for:
 
 Customer actions (searching, booking, canceling, etc.)
 Staff actions (check-ins, check-outs, discount approvals)
-2.6 Functional and Non-Functional Requirement Documents
+
+<h2>2.6 Functional and Non-Functional Requirement Documents</h2>
 
 Develop documents outlining:
 
 Functional Requirements: System capabilities (search, book, cancel, etc.)
 Non-Functional Requirements: Performance, security, usability, and scalability standards.
-2.7 User Stories and Acceptance Criteria
+
+<h2>2.7 User Stories and Acceptance Criteria</h2>
 
 Write User Stories reflecting customer and staff needs, with clear Acceptance Criteria for functionality validation.
 
-2.8 Business Requirement Document (BRD)
+<h2>2.8 Business Requirement Document (BRD)</h2>
 
 Construct a comprehensive BRD including:
 
 Swimlane and flowchart representations
 Functional and Non-Functional Requirements
-2.9 Test Plan
+
+<h2>2.9 Test Plan</h2>
+
 
 Formulate a Test Plan detailing testing strategies, scope, resources, and schedules.
 
-2.10 Requirement Traceability Matrix (RTM)
+<h2>2.10 Requirement Traceability Matrix (RTM)</h2>
 
-Establish an RTM for tracking requirements throughout the project lifecycle.
-
-2.11 Severity Matrix
-
-Create a Severity Matrix to categorize and prioritize issues.
-
-2.12 Defect Management Document
-
-Design a Defect Management Document to track and manage defects and issues.
-
-3. Conclusion
+<h2>3.0 Conclusion</h2>
 The Automated Hotel Reservation System project aims to enhance operational efficiency and customer experience through automation. By addressing current challenges, the project will streamline hotel management processes, improve accuracy and security, and provide a superior customer interaction experience. The Business Analyst's role is crucial in guiding the project to successful completion, ensuring that the system meets all requirements and delivers value to the hotel.
   
 
 
 
-<h2>Task 1: Requirement Gathering </h2>
 
 - <b>Windows 10</b> (21H2)
 
