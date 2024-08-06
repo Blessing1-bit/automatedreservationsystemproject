@@ -2,7 +2,20 @@
 
 
 <h2>Introduction</h2>
-Azure Crest Hotel, a 3-star establishment that currently operates with a manual room reservation process where customers either visit or call the hotel manager. This method is time-consuming, insecure, prone to errors, and negatively impacts the business. The project aims to modernize this process by implementing an automated online system for reservations, availability checks, confirmations, and payments. This upgrade will enhance efficiency, reduce booking times, and eliminate paper usage.
+Azure Crest Hotel, a 3-star establishment operates on manual process for room reservations. Customers either physically visit or call the hotel to secure room reservations. This manual approach is fraught with several challenges:
+
+- Time-Consuming:The manual process is notably time-intensive, causing delays and inconvenience for both customers and staff
+- Unsecured and Unreliable: Manual reservations lack the security and reliability that modern technology can provide, making them prone to errors.
+- Excessive Paper Usage: The current method contributes to excessive paper consumption for reservation records.
+- Complex Management: The management faces difficulties in efficiently managing a high volume of room reservation requests, making tracking customer bookings cumbersome.
+
+<h2>Objectives</h2> 
+As a Business Analyst, your role is pivotal in the implementation of an online reservation system designed to achieve the following objectives:
+
+- Develop an efficient online hotel reservation system to enhance hospitality management.
+- Eliminate the reliance on paper-based reservation processes.
+- Remove the duplication of customer information in the booking process.
+- Significantly reduce the time required for making reservations.
 <br />
 <h2>Project Management Approach</h2>
 The project Management approach employed was a hybrid model that combined Waterfall and Agile Methodologies. 
