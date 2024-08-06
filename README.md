@@ -47,7 +47,8 @@ to illustrate the current (AS-IS) and future (TO-BE) business processes.
 ![image](https://github.com/user-attachments/assets/cc3ed818-7c73-4e0b-9bdc-0315b0708242) 
 ![image](https://github.com/user-attachments/assets/4d10e49e-b0de-4180-933a-97cd764221b9)
 
-![image](https://github.com/user-attachments/assets/e45ec801-614a-4486-beaa-d0c0a247ec64)
+![image](https://github.com/user-attachments/assets/2502ba99-d3bd-44b6-919e-735424a4692a)
+
 
 
 - Current State: Process Flow Diagrams and Swim Lane Diagrams of the Manual reservation process.
