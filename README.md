@@ -21,15 +21,15 @@ As a Business Analyst, your role is pivotal in the implementation of an online r
 <h2>Project Task</h2>
 I carried out the following tasks to be to execute this project successfully:
 
-- I prepared a High-level project plan and approach to guide project management activities.
+- I prepared a High-level project plan to guide project management activities.
 - RACI matrix to define stakeholders roles and responsibilities.
-- Gap Analysis to understand current state develop strategies for improvement.
-- Business Process Map to illustrates current and future states of the business.
+- Gap Analysis to understand current state and develop strategies for improvement.
+- Utilized BPMN Tools like MS Vision to map Business Process that clearly defined current and future states of the business.
 - Use Case Diagram and accompanying documentation to show the end-users interactions with the system.
 - Functional and Non-Functional Requirement Documents to communicate the system specifications to the developers.
-- User Stories and define Acceptance Criteria to describe the end-users requirements to the developers.
-- Business Requirement Document to communicate the project objective 
-- A comprehensive Test Plan for User Acceptance Testing (UAT) to ensure that the solution meets the business requirement.
+- User Stories and defined Acceptance Criteria to describe the end-users requirements to the developers.
+- Business Requirement Document to communicate the project objectives to the stakeholders 
+- A comprehensive Test Plan for User Acceptance Testing (UAT) and ensure that the solution meets the business requirements.
 - Requirement Traceability Matrix (RTM) to track defects that was identified after testing.
 - Designed an effective Defect Management Document to track and address issues before deployment.
 
