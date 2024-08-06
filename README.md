@@ -75,6 +75,8 @@ Non-Functional Requirements: Performance, security, usability, and scalability s
 
 Created compelling User Stories reflecting customer and staff needs, with clear Acceptance Criteria for functionality validation.
 
+![image](https://github.com/user-attachments/assets/b2aa7428-b4ba-42ee-8c92-2dca3cc3f84e)
+
 <h2>2.8 Business Requirement Document (BRD)</h2>
 
 Construct a comprehensive BRD including:
