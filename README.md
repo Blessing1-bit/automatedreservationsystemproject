@@ -61,9 +61,9 @@ Staff (check-ins, check-outs, discount approvals) interactions with the solution
 ![image](https://github.com/user-attachments/assets/26fbdc01-3042-425b-ad24-74cf81e6f40d)
 
 
-<h2>2.6 Functional and Non-Functional Requirement Documents</h2>
+<h2>2.5 Functional and Non-Functional Requirement Documents</h2>
 
-Develop documents outlining:
+Developed the FRD/NFRD documents outlining:
 
 Functional Requirements: System capabilities (search, book, cancel, etc.)
 Non-Functional Requirements: Performance, security, usability, and scalability standards.
