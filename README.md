@@ -39,11 +39,11 @@ RACI Stands for: Responsible, Accountable, Consulted, and Informed
 
 
 
-<h2>2.3 Current State Analysis</h2>
+<h2>2.3 Process Flow Diagrams and Swim Lanes</h2>
+Performed an analysis of the existing manual reservation process, identifying pain points and areas for improvement, then utilized BPMN Tools such as MS Visio to create Process Maps illustrate the current (AS-IS) and future (TO-BE) business processes.
 
-Perform an analysis of the existing manual reservation process, identifying pain points and areas for improvement.
 
-<h2>2.4 Process Flow Diagrams and Swim Lanes</h2>
+
 
 Current State: Document the manual reservation process using Process Flow Diagrams and Swim Lane Diagrams.
 Future State: Design the automated reservation system’s process flows and interactions.
