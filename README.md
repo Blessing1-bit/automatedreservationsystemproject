@@ -85,6 +85,8 @@ Created compelling User Stories reflecting customer and staff needs, with clear 
 
 Developed a Test Plan detailing testing strategies, test cases, conditions that must be fufilled for the solution to be complete.
 
+![image](https://github.com/user-attachments/assets/3ea39170-9f4f-4147-a307-7971a6ea19f6)
+
 <h2>2.10 Requirement Traceability Matrix (RTM)</h2>
 
 <h2>3.0 Conclusion</h2>
