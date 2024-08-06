@@ -14,7 +14,7 @@ As a Business Analyst, your role is pivotal in the implementation of an online r
 <br />
 
 <h2>In-Scope</h2> 
-The development of the Automated Reservation System will perform a range of action: 
+The development of the Automated Reservation System will perform a range of actions: 
 
 - Registered and non-registered customers can search for available rooms, check room prices, and reserve a room for one hour using their email address.
 - Customers will receive confirmation of their reservations via email.
