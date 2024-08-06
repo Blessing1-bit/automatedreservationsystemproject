@@ -35,7 +35,8 @@ I developed a high level project management plan to define the business objectiv
 I prepared a RACI Matrix to help define roles and responsibilities for the project base on each deliverable:
 RACI Stands for: Responsible, Accountable, Consulted, and Informed
 
-![image](https://github.com/user-attachments/assets/2db1fb84-7e22-4a92-802b-717c9c087049)
+![image](https://github.com/user-attachments/assets/a5e9a7f1-e751-41bc-8994-008307a21b0b)
+
 
 
 <h2>2.3 Current State Analysis</h2>
