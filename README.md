@@ -73,7 +73,7 @@ Non-Functional Requirements: Performance, security, usability, and scalability s
 
 <h2>2.7 User Stories and Acceptance Criteria</h2>
 
-Write User Stories reflecting customer and staff needs, with clear Acceptance Criteria for functionality validation.
+Created compelling User Stories reflecting customer and staff needs, with clear Acceptance Criteria for functionality validation.
 
 <h2>2.8 Business Requirement Document (BRD)</h2>
 
