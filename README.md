@@ -44,7 +44,8 @@ Performed an analysis of the existing manual reservation process, identifying pa
 then utilized BPMN Tools such as MS Visio to create Process Maps
 to illustrate the current (AS-IS) and future (TO-BE) business processes.
 
-![image](https://github.com/user-attachments/assets/cc3ed818-7c73-4e0b-9bdc-0315b0708242) 
+![image](https://github.com/user-attachments/assets/21512957-d5d8-4066-a49b-4c631abfb1f9)
+
 ![image](https://github.com/user-attachments/assets/4d10e49e-b0de-4180-933a-97cd764221b9)
 
 ![image](https://github.com/user-attachments/assets/2502ba99-d3bd-44b6-919e-735424a4692a)
