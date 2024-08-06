@@ -40,9 +40,13 @@ RACI Stands for: Responsible, Accountable, Consulted, and Informed
 
 
 <h2>2.3 Process Flow Diagrams and Swim Lanes</h2>
-Performed an analysis of the existing manual reservation process, identifying pain points and areas for improvement, then utilized BPMN Tools such as MS Visio to create Process Maps to illustrate the current (AS-IS) and future (TO-BE) business processes.
+Performed an analysis of the existing manual reservation process, identifying pain points and areas for improvement, 
+then utilized BPMN Tools such as MS Visio to create Process Maps to illustrate the current (AS-IS) and future (TO-BE) business processes.
 
-Current State Process Flow Diagram For Azure Crest Hotel ![image](https://github.com/user-attachments/assets/cc3ed818-7c73-4e0b-9bdc-0315b0708242)
+
+
+ ![image](https://github.com/user-attachments/assets/cc3ed818-7c73-4e0b-9bdc-0315b0708242) 
+ Current State Process Flow Diagram For Azure Crest Hotel
 
 
 
