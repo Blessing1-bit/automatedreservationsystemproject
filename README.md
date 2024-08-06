@@ -47,8 +47,8 @@ to illustrate the current (AS-IS) and future (TO-BE) business processes.
 ![image](https://github.com/user-attachments/assets/cc3ed818-7c73-4e0b-9bdc-0315b0708242) 
 
 
-Current State: Process Flow Diagrams and Swim Lane Diagrams of the Manual reservation process.
-Future State: process flows diagram of the automated reservation system.
+- Current State: Process Flow Diagrams and Swim Lane Diagrams of the Manual reservation process.
+- Future State: process flows diagram of the automated reservation system.
 
 <h2>2.5 Use Case Documentation</h2>
 
