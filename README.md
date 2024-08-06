@@ -52,12 +52,13 @@ to illustrate the current (AS-IS) and future (TO-BE) business processes.
 - Current State: Process Flow Diagrams and Swim Lane Diagrams of the Manual reservation process.
 - Future State: process flows diagram of the automated reservation system.
 
-<h2>2.5 Use Case Documentation</h2>
+<h2>2.4 Use Case Documentation</h2>
 
-Create a Use Case Diagram illustrating system interactions and detailed documentation for:
+Created a Use Case Diagram illustrating system interactions and detailed documentation for:
 
-Customer actions (searching, booking, canceling, etc.)
-Staff actions (check-ins, check-outs, discount approvals)
+Customer (searching, booking, canceling, etc.) and
+Staff (check-ins, check-outs, discount approvals) interactions with the solution.
+![image](https://github.com/user-attachments/assets/34ffb202-ae39-4fce-a3d1-ea4d31c6298e)
 
 <h2>2.6 Functional and Non-Functional Requirement Documents</h2>
 
