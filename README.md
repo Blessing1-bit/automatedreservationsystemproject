@@ -15,12 +15,13 @@ As a Business Analyst, your role is pivotal in the implementation of an online r
 
 <h2>In-Scope</h2> 
 The development of the Automated Reservation System will perform a range of action: 
-- Registerd/Non-Registered Customers can search for available rooms, room prices and reserve a room for 1hr with their email address
-- Customers will receive confirmations of their reservations
-- Customers can cancel reservation
-- Customers can book rooms by making payments on the APP
-- The system will offer free cancellations up to 48hrs before check-in
-- Review reservations/cancellations.
+
+- Registered and non-registered customers can search for available rooms, check room prices, and reserve a room for one hour using their email address.
+- Customers will receive confirmation of their reservations via email.
+- Customers have the option to cancel their reservations.
+- Customers can book rooms by making payments through the app.
+- The system allows free cancellations up to 48 hours before check-in.
+- Customers can review their reservations and cancellations..
 
 <h2>Stakeholder Insight</h2> 
 
