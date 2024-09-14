@@ -1,6 +1,8 @@
-<h1>Poject: To Automate Manual Reservation Process of Azure Crest Hotel</h1>
-Check out the prototype (UI/UX design) of the Automated Resrvation System created by me in this link https://www.figma.com/proto/68KVkU1yHTHhurV3Y2tiCr/Azure-Crest-Homepage-Final-Mockup?node-id=1-2&node-type=canvas&t=BUV3Up
-Check out all BA deliverables for this project in this link 
+<h1>Project: To Automate Manual Reservation Process of Azure Crest Hotel</h1>
+
+1. Check out the prototype (UI/UX design) of the Automated Resrvation System created by me in this link https://www.figma.com/proto/68KVkU1yHTHhurV3Y2tiCr/Azure-Crest-Homepage-Final-Mockup?node-id=1-2&node-type=canvas&t=BUV3Up
+   
+2. Check out all BA deliverables for this project in this link 
 
 <h2>1.Introduction</h2>
 Azure Crest Hotel, a 3-star establishment, has relied on a manual process for room reservations involving physical visits or phone calls. This approach is time-consuming, unsecured, prone to errors, contributes to excessive paper usage, and complicates management. The business faces challenges in efficiently handling a high volume of reservations.
